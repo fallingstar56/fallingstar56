@@ -14,7 +14,7 @@
 
 - 🎓 I am an undergraduate student at **Tsinghua University**, **Dushi College**.
 - 💻 I major in **Software Engineering**.
-- 🔍 I am particularly interested in **Embodied Intelligence** and **Computer Vision**.
+- 🔍 I am particularly interested in **Embodied AI** and **Computer Vision**.
 
 ---
 
