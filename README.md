@@ -30,9 +30,3 @@
 
 - GitHub: [@fallingstar56](https://github.com/fallingstar56)
 - Email: `xhy25@mails.tsinghua.edu.cn`
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364" />
-</p>
