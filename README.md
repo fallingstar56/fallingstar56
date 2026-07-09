@@ -18,24 +18,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fallingstar56&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fallingstar56&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fallingstar56&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/fallingstar56/fallingstar56/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
