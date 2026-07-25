@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Hanyuan Xu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Undergraduate+Student+at+Tsinghua+University;Dushi+College+%7C+Software+Engineering+Major;Interested+in+Embodied+Intelligence+and+Computer+Vision;Building+cool+things+with+code%2C+robots%2C+and+vision+models+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Undergraduate+Student+at+Tsinghua+University;Dushi+College+%7C+Software+Engineering+Major;Interested+in+Embodied+Intelligence;Building+cool+things+with+code%2C+robots%2C+and+vision+models+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=Software%20Engineering%20%7C%20Embodied%20AI%20%7C%20Computer%20Vision&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 - 🎓 I am an undergraduate student at **Tsinghua University**, **Dushi College**.
 - 💻 I major in **Software Engineering**.
-- 🔍 I am particularly interested in **Embodied AI** and **Computer Vision**.
+- 🔍 I am particularly interested in **Embodied AI**.
 
 ---
 
