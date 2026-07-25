@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Hanyuan Xu 👋</h1>
+<h1 align="center">Hi, I'm Xu Hanyuan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Undergraduate+Student+at+Tsinghua+University;Dushi+College+%7C+Software+Engineering+Major;Interested+in+Embodied+Intelligence;Building+cool+things+with+code%2C+robots%2C+and+vision+models+%F0%9F%A4%96" alt="Typing SVG" />
