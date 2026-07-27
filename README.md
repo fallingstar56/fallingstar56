@@ -12,7 +12,7 @@
 
 ## 🤖 About Me
 
-- 🎓 I am an undergraduate student at **Tsinghua University**, **Dushi College**.
+- 🎓 I am an undergraduate student at **Dushi College**, **Tsinghua University**.
 - 💻 I major in **Software Engineering**.
 - 🔍 I am particularly interested in **Embodied AI**.
 
