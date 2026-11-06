@@ -1,13 +1,5 @@
 <h1 align="center">Hi, I'm Xu Hanyuan 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=900&lines=Undergraduate+Student+at+Tsinghua+University;Dushi+College+%7C+Software+Engineering+Major;Interested+in+Embodied+Intelligence;Building+cool+things+with+code%2C+robots%2C+and+vision+models+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn" />
-</p>
-
 ---
 
 ## 🤖 About Me
